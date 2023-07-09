@@ -1,0 +1,7 @@
+.wrapper-input {
+  display: flex;
+  width: 300px;
+}
+.input { 
+  margin-right: 15px;
+}
